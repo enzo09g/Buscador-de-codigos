@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const input = document.querySelector('input')
     input.addEventListener('input', buscar)
     generarFila()
+    input.focus()
 })
 
 async function generarFila() {

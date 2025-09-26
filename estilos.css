@@ -8,6 +8,12 @@ body{
     padding: 2rem;
 }
 
+header{
+  display: flex;
+  justify-content: center;
+  margin-bottom: .3rem;
+}
+
 header input{
     font: inherit;
     font-size: 20px;
@@ -49,13 +55,13 @@ main{
 }
 
 .container-table100 {
-  width: 100%;
-  background: #d1d1d1;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: .2rem;
 }
 
 .wrap-table100 {
