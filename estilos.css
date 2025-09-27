@@ -96,15 +96,13 @@ th, td {
 }
 
 .row100 td {
-  padding-top: 18px;
-  padding-bottom: 14px;
+  padding: 1.5rem 1rem;
 }
 
 
 /*==================================================================
 [ Ver1 ]*/
 .table100.ver1 td {
-  /* font-family: Montserrat-Regular; */
   font-size: 14px;
   color: black;
   font-weight: 600;
@@ -113,7 +111,6 @@ th, td {
 }
 
 .table100.ver1 th {
-  /* font-family: Montserrat-Medium; */
   font-size: 12px;
   color: #fff;
   line-height: 1.4;
@@ -139,44 +136,6 @@ th, td {
   color: #fff;
 }
 
-/*==================================================================
-[ Ver2 ]*/
-.table100.ver2 td {
-  font-family: Montserrat-Regular;
-  font-size: 16px;
-  color: #808080;
-  line-height: 1.4;
-}
-
-.table100.ver2 th {
-  font-family: Montserrat-Medium;
-  font-size: 14px;
-  color: #fff;
-  line-height: 1.4;
-  text-transform: uppercase;
-
-  background-color: #333333;
-}
-
-.table100.ver2 .row100:hover td {
-  background-color: #83d160;
-  color: #fff;
-}
-
-.table100.ver2 .hov-column-ver2 {
-  background-color: #83d160;
-  color: #fff;
-}
-
-.table100.ver2 .hov-column-head-ver2 {
-  background-color: #484848 !important;
-}
-
-.table100.ver2 .row100 td:hover {
-  background-color: #57b846;
-  color: #fff;
-}
-
 .column2{
     font-size: 24px;
 }
@@ -193,9 +152,8 @@ th, td {
 }
 
 i.btnCopy{
-  display: block;
-  height: 25px;
-  width: 25px;
+  height: 40px;
+  width: 40px;
   background-image: url('https://www.lastpass.com/assets/images/cdn/img-icon-copy-@3x.png');
   background-size: contain;
   background-repeat: no-repeat;
