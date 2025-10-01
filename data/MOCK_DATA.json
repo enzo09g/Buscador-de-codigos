@@ -1228,5 +1228,47 @@
         "serie": "",
         "nombre": "REVESTIMIENTO PARED P 20CM x 6MTS x 7MM MARRON",
         "medida": "20CM x 6MTS x 7MM"
+    },
+    {
+        "codigo": "7240",
+        "serie": "",
+        "nombre": "PUERTA VELKA CUADROS GRIS GRAFITO 84x200CM IZQUIERDA",
+        "medida": "84x200"
+    },
+    {
+        "codigo": "7241",
+        "serie": "",
+        "nombre": "PUERTA VELKA CUADROS BLANCO 84x200CM IZQUIERDA",
+        "medida": "84x200"
+    },
+    {
+        "codigo": "7241",
+        "serie": "",
+        "nombre": "PUERTA VELKA CUADROS BLANCO 84x200CM IZQUIERDA",
+        "medida": "84x200"
+    },
+    {
+        "codigo": "7165",
+        "serie": "",
+        "nombre": "CERRADURAS PADO",
+        "medida": ""
+    },
+    {
+        "codigo": "7185",
+        "serie": "",
+        "nombre": "BARRA NATURAL ALUMINIO ENTERA TUBO 50x25x6.80MTS",
+        "medida": ""
+    },
+    {
+        "codigo": "7186",
+        "serie": "",
+        "nombre": "BARRA NATURAL 3MTS. 40CM TUBO 50x25",
+        "medida": ""
+    },
+    {
+        "codigo": "7187",
+        "serie": "",
+        "nombre": "BARRA NATURAL 1MT.7OCM TUBO 50x25",
+        "medida": ""
     }
 ]
