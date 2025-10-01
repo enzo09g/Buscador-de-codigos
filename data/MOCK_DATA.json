@@ -500,13 +500,13 @@
     {
         "codigo": 3957,
         "serie": "P",
-        "nombre": "MONOBLOCK 120x100 SP",
+        "nombre": "MONOBLOCK",
         "medida": "120x100"
     },
     {
         "codigo": 3956,
         "serie": "P",
-        "nombre": "MONOBLOCK PVC SP",
+        "nombre": "MONOBLOCK PVC",
         "medida": "100x100"
     },
     {
