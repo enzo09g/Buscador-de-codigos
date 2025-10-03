@@ -1242,12 +1242,6 @@
         "medida": "84x200"
     },
     {
-        "codigo": "7241",
-        "serie": "",
-        "nombre": "PUERTA VELKA CUADROS BLANCO 84x200CM IZQUIERDA",
-        "medida": "84x200"
-    },
-    {
         "codigo": "7165",
         "serie": "",
         "nombre": "CERRADURAS PADO",
@@ -1269,6 +1263,12 @@
         "codigo": "7187",
         "serie": "",
         "nombre": "BARRA NATURAL 1MT.7OCM TUBO 50x25",
+        "medida": ""
+    },
+    {
+        "codigo": "OT38",
+        "serie": "",
+        "nombre": "PURETA BLINDADA NEGRA DE COCINA DOS VIDRIOS",
         "medida": ""
     }
 ]
