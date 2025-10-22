@@ -23,6 +23,8 @@ async function generarFila() {
         const tdSerie = templateClone.querySelector('td[data-column="column2"]')
         const tdMedida = templateClone.querySelector('td[data-column="column3"]')
         const tdCodigo = templateClone.querySelector('td[data-column="column4"]')
+        const tdPrecio = templateClone.querySelector('td[data-column="column5"]')
+
 
 
         let descripcion = palabras.some(p => element.nombre.toLowerCase().includes(p))
@@ -33,7 +35,10 @@ async function generarFila() {
         tdCodigo.textContent = element.codigo
         tdSerie.textContent = element.serie
         tdMedida.textContent = element.medida
-        const datoExcel = [element.codigo, element.serie, "", descripcion].join('\t')
+        tdPrecio.textContent = element.precio
+        const datoExcel = [element.codigo, element.serie, "", descripcion,
+             element.precio
+        ].join('\t')
         templateClone.querySelector('tr').dataset.info = datoExcel
         tBody.appendChild(templateClone)
     })

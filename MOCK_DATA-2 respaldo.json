@@ -3,1435 +3,1278 @@
         "codigo": 950,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "50x30",
-        "precio": 1391
+        "medida": "50x30"
     },
     {
         "codigo": 2,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "60x40",
-        "precio": 1593
+        "medida": "60x40"
     },
     {
         "codigo": 3,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "80x40",
-        "precio": 2051
+        "medida": "80x40"
     },
     {
         "codigo": 9,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "100x80",
-        "precio": 3194
+        "medida": "100x80"
     },
     {
         "codigo": 10,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "100x100",
-        "precio": 3108
+        "medida": "100x100"
     },
     {
         "codigo": 11,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "100x120",
-        "precio": 4983
+        "medida": "100x120"
     },
     {
         "codigo": 13,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x60",
-        "precio": 3077
+        "medida": "120x60"
     },
     {
         "codigo": 15,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x100",
-        "precio": 3372
+        "medida": "120x100"
     },
     {
         "codigo": 1154,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x120",
-        "precio": 4184
+        "medida": "120x120"
     },
     {
         "codigo": 17,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "150x60",
-        "precio": 3459
+        "medida": "150x60"
     },
     {
         "codigo": 19,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "150x100",
-        "precio": 4269
+        "medida": "150x100"
     },
     {
         "codigo": 20,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "50x30",
-        "precio": 1590
+        "medida": "50x30"
     },
     {
         "codigo": 23,
         "serie": "20",
         "nombre": "CORREDIZA ANOLOCK",
-        "medida": "50x30",
-        "precio": 2258
+        "medida": "50x30"
     },
     {
         "codigo": 24,
         "serie": "20",
         "nombre": "CORREDIZA ALUM MARRON",
-        "medida": "50x30",
-        "precio": 2043
+        "medida": "50x30"
     },
     {
         "codigo": 25,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "60x40",
-        "precio": 1831
+        "medida": "60x40"
     },
     {
         "codigo": 26,
         "serie": "20",
         "nombre": "CORREDIZA ALUM BLANCO",
-        "medida": "60x40",
-        "precio": 2247
+        "medida": "60x40"
     },
     {
         "codigo": 30,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "80x40",
-        "precio": 2430
+        "medida": "80x40"
     },
     {
         "codigo": 45,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "80x100",
-        "precio": 4151
+        "medida": "80x100"
     },
     {
         "codigo": 60,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "100x80",
-        "precio": 3734
+        "medida": "100x80"
     },
     {
         "codigo": 65,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "100x100",
-        "precio": 3659
+        "medida": "100x100"
     },
     {
         "codigo": 68,
         "serie": "20",
         "nombre": "CORREDIZA ANOLOCK",
-        "medida": "100x100",
-        "precio": 4999
+        "medida": "100x100"
     },
     {
         "codigo": 80,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x60",
-        "precio": 3625
+        "medida": "120x60"
     },
     {
         "codigo": 89,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x100",
-        "precio": 3988
+        "medida": "120x100"
     },
     {
         "codigo": 90,
         "serie": "20",
         "nombre": "CORREDIZA MADERA",
-        "medida": "120x100",
-        "precio": 6504
+        "medida": "120x100"
     },
     {
         "codigo": 93,
         "serie": "20",
         "nombre": "CORREDIZA ALUM BLANCO",
-        "medida": "120x100",
-        "precio": 4949
+        "medida": "120x100"
     },
     {
         "codigo": 94,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x120",
-        "precio": 4945
+        "medida": "120x120"
     },
     {
         "codigo": 99,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x150",
-        "precio": 6128
+        "medida": "120x150"
     },
     {
         "codigo": 104,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x180",
-        "precio": 6940
+        "medida": "120x180"
     },
     {
         "codigo": 114,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "150x60",
-        "precio": 4085
+        "medida": "150x60"
     },
     {
         "codigo": 124,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "150x100",
-        "precio": 5033
+        "medida": "150x100"
     },
     {
         "codigo": 129,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NAT",
-        "medida": "150x120",
-        "precio": 4943
+        "medida": "150x120"
     },
     {
         "codigo": 131,
         "serie": "20",
         "nombre": "CORREDIZA ALUM MARRON",
-        "medida": "150x120",
-        "precio": 6665
+        "medida": "150x120"
     },
     {
         "codigo": 139,
         "serie": "20",
         "nombre": "CORREDIZA ALUM NAT",
-        "medida": "150x180",
-        "precio": 7641
+        "medida": "150x180"
     },
     {
         "codigo": 224,
         "serie": "20",
         "nombre": "CORREDIZA SIN DIVISOR",
-        "medida": "150x200",
-        "precio": 6990
+        "medida": "150x200"
     },
     {
         "codigo": 641,
         "serie": " ",
         "nombre": "PUERTA MEDIO LAMBRIZ ALUM NAT DERECHA",
-        "medida": "80x200",
-        "precio": 9350
+        "medida": "80x200"
     },
     {
         "codigo": 641,
         "serie": " ",
         "nombre": "PUERTA MEDIO LAMBRIZ ALUM NAT IZQUIERDA",
-        "medida": "80x200",
-        "precio": 9350
+        "medida": "80x200"
     },
     {
         "codigo": 662,
         "serie": " ",
         "nombre": "PUERTA CIEGA ALUM NAT DERECHA",
-        "medida": "80x200",
-        "precio": 13787
+        "medida": "80x200"
     },
     {
         "codigo": 662,
         "serie": " ",
         "nombre": "PUERTA CIEGA ALUM NAT IZQUIERDA",
-        "medida": "80x200",
-        "precio": 13787
+        "medida": "80x200"
     },
     {
         "codigo": 662,
         "serie": " ",
         "nombre": "PUERTA CIEGA ALUM NAT DERECHA C/VIDRIO LATERAL",
-        "medida": "80x200",
-        "precio": 13787
+        "medida": "80x200"
     },
     {
         "codigo": 662,
         "serie": " ",
         "nombre": "PUERTA CIEGA ALUM NAT IZQUIERDA C/VIDRIO SUPERIOR",
-        "medida": "80x200",
-        "precio": 13787
+        "medida": "80x200"
     },
     {
         "codigo": 683,
         "serie": " ",
         "nombre": "PUERTA MEDIO COLONIAL ALUM NAT DERECHA",
-        "medida": "80x200",
-        "precio": 12303
+        "medida": "80x200"
     },
     {
         "codigo": 683,
         "serie": " ",
         "nombre": "PUERTA MEDIO COLONIAL ALUM NAT IZQUIERDA",
-        "medida": "80x200",
-        "precio": 12303
+        "medida": "80x200"
     },
     {
         "codigo": 686,
         "serie": " ",
         "nombre": "PUERTA MEDIO COLONIAL ALUM MARRON DERECHA",
-        "medida": "80x200",
-        "precio": 14943
+        "medida": "80x200"
     },
     {
         "codigo": 686,
         "serie": " ",
         "nombre": "PUERTA MEDIO COLONIAL ALUM MARRON IZQUIERDA",
-        "medida": "80x200",
-        "precio": 14943
+        "medida": "80x200"
     },
     {
         "codigo": 729,
         "serie": " ",
         "nombre": "PUERTA SOLO VIDRIO C/DIVISOR IZQUIERDA (todo vidrio)",
-        "medida": "80x200",
-        "precio": 9804
+        "medida": "80x200"
     },
     {
         "codigo": 744,
         "serie": "20",
         "nombre": "MONOBLOCK PVC",
-        "medida": "100x100",
-        "precio": 8268
+        "medida": "100x100"
     },
     {
         "codigo": 745,
         "serie": "20",
         "nombre": "MONOBLOCK PVC",
-        "medida": "120x100",
-        "precio": 8992
+        "medida": "120x100"
     },
     {
         "codigo": 749,
         "serie": "20",
         "nombre": "MONOBLOCK PVC",
-        "medida": "150x120",
-        "precio": 11546
+        "medida": "150x120"
     },
     {
         "codigo": 751,
         "serie": "20",
         "nombre": "MONOBLOCK PVC",
-        "medida": "150x200",
-        "precio": 16354
+        "medida": "150x200"
     },
     {
         "codigo": 1099,
         "serie": "25",
         "nombre": "CORREDIZA COLONIAL ALUM NATURAL",
-        "medida": "150x200",
-        "precio": 22308
+        "medida": "150x200"
     },
     {
         "codigo": 1160,
         "serie": "30",
         "nombre": "GUILLOTINA ALUM NATURAL",
-        "medida": "40x60",
-        "precio": 3601
+        "medida": "40x60"
     },
     {
         "codigo": 1165,
         "serie": "25",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "200x200",
-        "precio": 14774
+        "medida": "200x200"
     },
     {
         "codigo": 1172,
         "serie": "30",
         "nombre": "TABAQUERA ALUM NATURAL",
-        "medida": "40x60",
-        "precio": 7329
+        "medida": "40x60"
     },
     {
         "codigo": 2224,
         "serie": " ",
         "nombre": "MAMPARA DE BAÑO ACRILICO INCOLORO",
-        "medida": "100x180",
-        "precio": 7901
+        "medida": "100x180"
     },
     {
         "codigo": 2226,
         "serie": " ",
         "nombre": "MAMPARA DE BAÑO ACRILICO CHAMPAGNE",
-        "medida": "120x180",
-        "precio": 8116
+        "medida": "120x180"
     },
     {
         "codigo": 2228,
         "serie": " ",
         "nombre": "MAMPARA DE BAÑO ACRILICO AZUL",
-        "medida": "140x180",
-        "precio": 9783
+        "medida": "140x180"
     },
     {
         "codigo": 2229,
         "serie": " ",
         "nombre": "MAMPARA DE BAÑO ACRILICO GRIS",
-        "medida": "150x180",
-        "precio": 9944
+        "medida": "150x180"
     },
     {
         "codigo": 2561,
         "serie": "P",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "150x120",
-        "precio": 4122
+        "medida": "150x120"
     },
     {
         "codigo": 2573,
         "serie": "30",
         "nombre": "GUILLOTINA ALUM NATURAL",
-        "medida": "60x120",
-        "precio": 5483
+        "medida": "60x120"
     },
     {
         "codigo": 2744,
         "serie": "20",
         "nombre": "CORREDIZA C/DIVISOR ALUM NATURAL",
-        "medida": "150x200",
-        "precio": 7344
+        "medida": "150x200"
     },
     {
         "codigo": 3370,
         "serie": "20",
         "nombre": "CORREDIZA ALUM MARRON",
-        "medida": "120x100",
-        "precio": 5375
+        "medida": "120x100"
     },
     {
         "codigo": 3377,
         "serie": "20",
         "nombre": "CORREDIZA ALUM MARRON",
-        "medida": "100x100",
-        "precio": 4965
+        "medida": "100x100"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "100x100",
-        "precio": 1828
+        "medida": "100x100"
     },
     {
         "codigo": 7137,
         "serie": " ",
         "nombre": "PUERTA TITANIA LISA BLANCA IZQUIERDA",
-        "medida": "84x200",
-        "precio": 7525
+        "medida": "84x200"
     },
     {
         "codigo": 7136,
         "serie": " ",
         "nombre": "PUERTA TITANIA LISA BLANCA DERECHA",
-        "medida": "84x200",
-        "precio": 7525
+        "medida": "84x200"
     },
     {
         "codigo": 7134,
         "serie": " ",
         "nombre": "PUERTA TITANIA LISA GRAFITO IZQUIERDA",
-        "medida": "84x200",
-        "precio": 7525
+        "medida": "84x200"
     },
     {
         "codigo": " ",
         "serie": " ",
         "nombre": "PROYECTANTE ALUM NATURAL",
-        "medida": "100x100",
-        "precio": ""
+        "medida": "100x100"
     },
     {
         "codigo": " ",
         "serie": " ",
         "nombre": "BATIENTE NEGRA C/MOSQUITERO",
-        "medida": "60x100",
-        "precio": ""
+        "medida": "60x100"
     },
     {
         "codigo": " ",
         "serie": "25",
         "nombre": "MONOBLOCK ALUMINIO BLANCO CORT/PVC 2T 2CO",
-        "medida": "200x200",
-        "precio": 36389
+        "medida": "200x200"
     },
     {
         "codigo": 3708,
         "serie": " ",
         "nombre": "PUERTA OBLAK PRESTA PLUS M33708 BLANCA DERECHA",
-        "medida": "88x205",
-        "precio": 8546
+        "medida": "88x205"
     },
     {
         "codigo": 3708,
         "serie": " ",
         "nombre": "PUERTA OBLAK PRESTA PLUS M33708 BLANCA IZQUIERDA",
-        "medida": "88x205",
-        "precio": 8546
+        "medida": "88x205"
     },
     {
         "codigo": 3708,
         "serie": " ",
         "nombre": "PUERTA OBLAK PRESTA PLUS M33708 GRAFITO DERECHA",
-        "medida": "88x205",
-        "precio": 8546
+        "medida": "88x205"
     },
     {
         "codigo": 3708,
         "serie": " ",
         "nombre": "PUERTA OBLAK PRESTA PLUS M33708 GRAFITO IZQUIERDA",
-        "medida": "88x205",
-        "precio": 8546
+        "medida": "88x205"
     },
     {
         "codigo": " ",
         "serie": "GALA",
         "nombre": "PUERTA GALA BLANCA TODO VIDRIO 5MM DERECHA",
-        "medida": "80x200",
-        "precio": 18189
+        "medida": "80x200"
     },
     {
         "codigo": " ",
         "serie": "20",
         "nombre": "MONOBLOCK MARRON C/PERSIANA ELECTRICA ALUM",
-        "medida": "120x100",
-        "precio": 25263
+        "medida": "120x100"
     },
     {
         "codigo": " ",
         "serie": " ",
         "nombre": "CATALANA PVC BLANCA",
-        "medida": "150x200",
-        "precio": 8331
+        "medida": "150x200"
     },
     {
         "codigo": " ",
         "serie": " ",
         "nombre": "CATALANA PVC BLANCA",
-        "medida": "120x100",
-        "precio": 4676
+        "medida": "120x100"
     },
     {
         "codigo": 4274,
         "serie": " ",
         "nombre": "CATALANA PVC BLANCA",
-        "medida": "100x100",
-        "precio": 4676
+        "medida": "100x100"
     },
     {
         "codigo": " ",
         "serie": " ",
         "nombre": "CATALANA PVC BLANCA",
-        "medida": "100x80",
-        "precio": 4676
+        "medida": "100x80"
     },
     {
         "codigo": " ",
         "serie": "30",
         "nombre": "GUILLOTINA ALUM NATURAL",
-        "medida": "30x50",
-        "precio": 2832
+        "medida": "30x50"
     },
     {
         "codigo": " ",
         "serie": "25",
         "nombre": "CORREDIZA 3 HOJAS 3 GUIAS VIDRIO 4MM",
-        "medida": "150x200",
-        "precio": 18189
+        "medida": "150x200"
     },
     {
         "codigo": " ",
         "serie": "GALA",
         "nombre": "CORREDIZA BLANCA GALA",
-        "medida": "150x150",
-        "precio": 16878
+        "medida": "150x150"
     },
     {
         "codigo": " ",
         "serie": "PROBBA",
         "nombre": "CORREDIZA PROBBA ANOLOCK",
-        "medida": "100x100",
-        "precio": 12416
+        "medida": "100x100"
     },
     {
         "codigo": 3957,
         "serie": "P",
         "nombre": "MONOBLOCK",
-        "medida": "120x100",
-        "precio": 6438
+        "medida": "120x100"
     },
     {
         "codigo": 3956,
         "serie": "P",
         "nombre": "MONOBLOCK PVC",
-        "medida": "100x100",
-        "precio": 8047
+        "medida": "100x100"
     },
     {
         "codigo": 3912,
         "serie": " ",
         "nombre": "PUERTA PVC INTERIOR CAOBA DERECHA",
-        "medida": "75.5x205",
-        "precio": 5488
+        "medida": "75.5x205"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO",
-        "medida": "80x40",
-        "precio": 1075
+        "medida": "80x40"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "100x80",
-        "precio": 1595
+        "medida": "100x80"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "120x100",
-        "precio": 1938
+        "medida": "120x100"
     },
     {
         "codigo": 3670,
         "serie": "25",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "120x100",
-        "precio": 2944
+        "medida": "120x100"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "120x60",
-        "precio": 1555
+        "medida": "120x60"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "150x120",
-        "precio": 2379
+        "medida": "150x120"
     },
     {
         "codigo": 3670,
         "serie": "25",
         "nombre": "MOSQUITERO",
-        "medida": "150x120",
-        "precio": 3677
+        "medida": "150x120"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "150x200",
-        "precio": 3189
+        "medida": "150x200"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO",
-        "medida": "60x40",
-        "precio": 952
+        "medida": "60x40"
     },
     {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO MEDIA VENTANA",
-        "medida": "50x30",
-        "precio": 800
+        "medida": "50x30"
     },
     {
         "codigo": "550",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECO IZQ 3 VIDRIOS HORIZONTALES CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECO IZQ 3 VIDRIOS HORIZONTALES CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "550",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECO IZQ 3 VIDRIOS HORIZONTALES CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECO IZQ 3 VIDRIOS HORIZONTALES CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "560",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECO COLONIAL CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECO COLONIAL CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "560",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECO COLONIAL CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECO COLONIAL CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "570",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VID CENTRAL CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VID CENTRAL CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "570",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VID CENTRAL CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VID CENTRAL CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "580",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VID LATERAL CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VID LATERAL CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "580",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VIDLATERAL CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA 1 VIDLATERAL CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "650",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA postigo fijo CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA postigo fijo CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "650",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA postigo fijo CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA postigo fijo CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "700",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA CIEGA CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA CIEGA CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "700",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA CIEGA CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 3345
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA CIEGA CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "750",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA C/POSTIGO CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 4632
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA C/POSTIGO CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "750",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA C/POSTIGO CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 4632
+        "nombre": "PUERTA CHAPA SIMPLE ECONOMICA C/POSTIGO CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "2609",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA DOBLE  postigo fijo CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 4520
+        "nombre": "PUERTA CHAPA DOBLE  postigo fijo CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "2609",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA DOBLE  postigo fijo CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 4520
+        "nombre": "PUERTA CHAPA DOBLE  postigo fijo CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "2618",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA DOBLE C/POSTIGO CERRADURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 5487
+        "nombre": "PUERTA CHAPA DOBLE C/POSTIGO CERRADURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "2619",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CHAPA DOBLE C/POSTIGO  CERRADURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 5457
+        "nombre": "PUERTA CHAPA DOBLE C/POSTIGO  CERRADURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "3700",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CIEGA CON REJA 12 Y CERREDURA DOBLE DE SEGURIDAD Izquierda",
-        "precio": 7731
+        "nombre": "PUERTA CIEGA CON REJA 12 Y CERREDURA DOBLE DE SEGURIDAD Izquierda"
     },
     {
         "codigo": "3700",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA CIEGA CON REJA 12 Y CERREDURA DOBLE DE SEGURIDAD Derecha",
-        "precio": 7731
+        "nombre": "PUERTA CIEGA CON REJA 12 Y CERREDURA DOBLE DE SEGURIDAD Derecha"
     },
     {
         "codigo": "R12",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA REJA varilla  12 para amurar doble cerrojo Izquierda",
-        "precio": 6056
+        "nombre": "PUERTA REJA varilla  12 para amurar doble cerrojo Izquierda"
     },
     {
         "codigo": "R12",
         "serie": "",
         "medida": "81x200",
-        "nombre": "PUERTA REJA varilla  12 para amurar doble cerrojo Derecha",
-        "precio": 6056
+        "nombre": "PUERTA REJA varilla  12 para amurar doble cerrojo Derecha"
     },
     {
-        "codigo": "R1520 IZ",
+        "codigo": "R12 IZ",
         "serie": "",
         "medida": "150x200",
-        "nombre": "REJA 150x200 PARA AMURAR varilla de 12 con 2 Cerrojos Izquierda",
-        "precio": 8852
+        "nombre": "REJA 150x200 PARA AMURAR varilla de 12 con 2 Cerrojos Izquierda"
     },
     {
-        "codigo": "R1520 D",
+        "codigo": "R12D",
         "serie": "",
         "medida": "150x200",
-        "nombre": "REJA 150x200 PARA AMURAR varilla de 12 con 2 Cerrojos Derecha",
-        "precio": 8852
+        "nombre": "REJA 150x200 PARA AMURAR varilla de 12 con 2 Cerrojos Derecha"
     },
     {
         "codigo": "INT10 IZ",
         "serie": "",
         "medida": "75x2,05",
-        "nombre": "PUERTA INTERIOR MARCO DE PINO DE 10cm HOJA AMBAI DE PRIMERA Izquierda",
-        "precio": 2773
+        "nombre": "PUERTA INTERIOR MARCO DE PINO DE 10cm HOJA AMBAI DE PRIMERA Izquierda"
     },
     {
         "codigo": "INT10 D",
         "serie": "",
         "medida": "75x2,05",
-        "nombre": "PUERTA INTERIOR MARCO DE PINO DE 10cm HOJA AMBAI DE PRIMERA Derecha",
-        "precio": 2773
+        "nombre": "PUERTA INTERIOR MARCO DE PINO DE 10cm HOJA AMBAI DE PRIMERA Derecha"
+    },
+    {
+        "codigo": "ESQUI",
+        "serie": "",
+        "medida": "",
+        "nombre": "ESTUFA ESQUINERA EN CHAPA 18 CON CAÑOS 20x20DESVIO Y SOMBRERO"
+    },
+    {
+        "codigo": "FRON",
+        "serie": "",
+        "medida": "",
+        "nombre": "ESTUFA FRONTAL EN CHAPA 18 CON CAÑOS 20x20DESVIO Y SOMBRERO"
+    },
+    {
+        "codigo": "TEO 1M",
+        "serie": "",
+        "medida": "86x2,05",
+        "nombre": "PUERTA semi BLINDADA 205x86x7 MARRON IZQUIERDA"
+    },
+    {
+        "codigo": "TEO 1M",
+        "serie": "",
+        "medida": "86x2,05",
+        "nombre": "PUERTA semi BLINDADA 205x86x7 MARRON DERECHA"
     },
     {
         "codigo": "TEO 1B",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA semi BLINDADA 205x86x7 BLANCA IZQUIERDA",
-        "precio": 6694
+        "nombre": "PUERTA semi BLINDADA 205x86x7 BLANCA IZQUIERDA"
     },
     {
         "codigo": "TEO 1B",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA semi BLINDADA 205x86x7 BLANCA DERECHA ",
-        "precio": 6694
+        "nombre": "PUERTA semi BLINDADA 205x86x7 BLANCA DERECHA "
     },
     {
         "codigo": "TEO 1N",
         "serie": " ",
         "medida": "86x2,05",
-        "nombre": "PUERTA semi BLINDADA 205x86x7 NEGRA DERECHA",
-        "precio": 6694
+        "nombre": "PUERTA semi BLINDADA 205x86x7 NEGRA DERECHA"
     },
     {
         "codigo": "TEO 1N",
         "serie": " ",
         "medida": "86x2,05",
-        "nombre": "PUERTA semi BLINDADA 205x86x7 NEGRA IZQUIERDA",
-        "precio": 6694
+        "nombre": "PUERTA semi BLINDADA 205x86x7 NEGRA IZQUIERDA"
+    },
+    {
+        "codigo": "OT 9M",
+        "serie": "",
+        "medida": "86x2,05",
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO MARRON C/ APLIQUES DE ALUMINIO Izquierda"
+    },
+    {
+        "codigo": "OT 9M",
+        "serie": "",
+        "medida": "86x2,05",
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO MARRON C/ APLIQUES DE ALUMINIO Derecha"
     },
     {
         "codigo": "OT 10B",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO BLANCA C/ APLIQUES DE ALUMINIO Izquierda",
-        "precio": 10946
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO BLANCA C/ APLIQUES DE ALUMINIO Izquierda"
     },
     {
         "codigo": "OT 10B",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO BLANCA C/ APLIQUES  DE ALUMINIODerecha",
-        "precio": 10946
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO BLANCA C/ APLIQUES  DE ALUMINIODerecha"
     },
     {
         "codigo": "OT 11N",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO NEGRA C/ APLIQUES DE ALUMINIO Izquierda",
-        "precio": 10946
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO NEGRA C/ APLIQUES DE ALUMINIO Izquierda"
     },
     {
         "codigo": "OT 11N",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA BLINDADA CON BARRAL DE ACERO NEGRA C/ APLIQUESDE ALUMINIO Derecha",
-        "precio": 10946
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO NEGRA C/ APLIQUESDE ALUMINIO Derecha"
     },
     {
         "codigo": "OT 16 N",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA BLINDADA CON BARRAL DE ACERO NEGRA LISA   Izquierda",
-        "precio": 10946
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO NEGRA LISA   Izquierda"
     },
     {
         "codigo": "OT 16N",
         "serie": "",
         "medida": "86x2,05",
-        "nombre": "PUERTA BLINDADA CON BARRAL DE ACERO NEGRA LISA Derecha",
-        "precio": 10946
+        "nombre": "PUERTA BLINDADA  CON BARRAL DE ACERO NEGRA LISA Derecha"
+    },
+    {
+        "codigo": "OT 21 N",
+        "serie": "",
+        "medida": "86x2,05",
+        "nombre": "PUERTA BLINDADA  LABRADA CON BARRAL DE ACERO NEGRA  Izquierda"
+    },
+    {
+        "codigo": "OT 21N",
+        "serie": "",
+        "medida": "86x2,05",
+        "nombre": "PUERTA BLINDADA  LABRADA CON BARRAL DE ACERO NEGRA Derecha"
     },
     {
         "codigo": "MDFB",
         "serie": "",
         "medida": "75x205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC BLANCA Izquierda",
-        "precio": 6665
+        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC BLANCA Izquierda"
     },
     {
         "codigo": "MDFB",
         "serie": "",
         "medida": "75205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC BLANCA Derecha",
-        "precio": 6665
+        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC BLANCA Derecha"
     },
     {
         "codigo": "MDFM",
         "serie": "",
         "medida": "75x205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC MARRON Izquierda",
-        "precio": 6665
+        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC MARRON Izquierda"
     },
     {
         "codigo": "MDFM",
         "serie": "",
         "medida": "75x205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC MARRON Derecha",
-        "precio": 6665
+        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC MARRON Derecha"
     },
     {
         "codigo": "9100 B",
         "serie": "",
-        "nombre": "CIELO RASO 7MM X4MTS BLANCO C/U $130",
-        "medida": "4MTS",
-        "precio": ""
+        "nombre": "CIELO RASO P HOJA 7MM X4MTS BLANCO",
+        "medida": "4MTS"
     },
     {
         "codigo": "9101 B",
         "serie": "",
-        "nombre": "CIELO RASO 7MM X6MTS BLANCO C/U $195",
-        "medida": "6MTS",
-        "precio": ""
+        "nombre": "CIELO RASO P HOJA 7MM X6MTS BLANCO",
+        "medida": "6MTS"
     },
     {
         "codigo": "9102",
         "serie": "",
-        "nombre": "CIELO RASO HOJA 7MM 6MTS MOGNO C/U $301",
-        "medida": "6MTS",
-        "precio": ""
+        "nombre": "CIELO RASO P HOJA 7MM 6MTS MOGNO",
+        "medida": "6MTS"
     },
     {
         "codigo": "9103",
         "serie": "",
-        "nombre": "CIELO RASO 7MM 6MTS MARRON CEREJEIRA C/U $301",
-        "medida": "6MTS",
-        "precio": ""
+        "nombre": "CIELO RASO P HOJA 7MM 6MTS MARRON CEREJEIRA",
+        "medida": "6MTS"
     },
     {
         "codigo": "9104 B",
         "serie": "",
-        "nombre": "CIELO RASO REF. 10MM 20CM X5.95MTS BLANCO C/U $380",
-        "medida": "5.95MTS",
-        "precio": ""
+        "nombre": "CIELO RASO P HOJA REFORZADA 10MM 20CM X5.95MTS BLANCO",
+        "medida": "5.95MTS"
     },
     {
         "codigo": "9117",
         "serie": "",
-        "nombre": "CIELO RASO PERFIL C 6MTS LIV. BLANCO C/U $224",
-        "medida": "6MTS",
-        "precio": ""
+        "nombre": "CIELO RASO PERFIL C 6MTS LIVIANO BLANCO",
+        "medida": "6MTS"
     },
     {
         "codigo": "9105 B",
         "serie": "",
-        "nombre": "CIELO RASO PERFIL L (MEDIA CAÑA) BLANCO LIV C/U $255",
-        "medida": "6MTS",
-        "precio": ""
+        "nombre": "CIELO RASO P PERFIL L (MEDIA CAÑA) BLANCO LIVIANO",
+        "medida": "6MTS"
     },
     {
         "codigo": "7166 MARRON",
         "serie": "",
         "nombre": "PUERTA SANFONADA LIDASUR 72x205 PVC MARRON",
-        "medida": "72x205",
-        "precio": 933
+        "medida": "72x205"
     },
     {
         "codigo": "7167 MARRON",
         "serie": "",
         "nombre": "PUERTA SANFONADA LIDASUR 84x205 PVC MARRON",
-        "medida": "84x205",
-        "precio": 1024
+        "medida": "84x205"
     },
     {
         "codigo": "7168 MARRON",
         "serie": "",
         "nombre": "PUERTA SANFONADA LIDASUR 96x205 PVC MARRON",
-        "medida": "96x205",
-        "precio": 1241
+        "medida": "96x205"
     },
     {
         "codigo": "7169 BLANCA",
         "serie": "",
         "nombre": "PUERTA SANFONADA LIDASUR 96x205 PVC BLANCA",
-        "medida": "96x205",
-        "precio": 1033
+        "medida": "96x205"
     },
     {
         "codigo": "7170 BLANCA",
         "serie": "",
         "nombre": "PUERTA SANFONADA LIDASUR 72x205 PVC BLANCA",
-        "medida": "72x205",
-        "precio": 766
+        "medida": "72x205"
     },
     {
         "codigo": "7000",
         "serie": "",
         "nombre": "PUERTA PLEGABLE PVC BLANCA DE 70x210",
-        "medida": "70x210",
-        "precio": 1074
+        "medida": "70x210"
     },
     {
         "codigo": "7000-2",
         "serie": "",
         "nombre": "PUERTA PLEGABLE PVC BLANCA DE 80x210",
-        "medida": "80x210",
-        "precio": 1118
+        "medida": "80x210"
     },
     {
         "codigo": "7000-1",
         "serie": "",
         "nombre": "PUERTA PLEGABLE PVC MOGNO DE 70x210",
-        "medida": "70x210",
-        "precio": ""
+        "medida": "70x210"
     },
     {
         "codigo": "7000-3",
         "serie": "",
         "nombre": "PUERTA PLEGABLE PVC MOGNO DE 80x210",
-        "medida": "80x210",
-        "precio": ""
+        "medida": "80x210"
     },
     {
         "codigo": "7159",
         "serie": "",
         "nombre": "SILICONA",
-        "medida": "280ml",
-        "precio": 172
+        "medida": "280ml"
     },
     {
         "codigo": "8",
         "serie": "",
         "nombre": "REJA 80x40",
-        "medida": "80x40",
-        "precio": 1021
+        "medida": "80x40"
     },
     {
         "codigo": "4",
         "serie": "",
         "nombre": "REJA 100x80",
-        "medida": "100x80",
-        "precio": 1066
+        "medida": "100x80"
     },
     {
         "codigo": "1",
         "serie": "",
         "nombre": "REJA 100x100",
-        "medida": "100x100",
-        "precio": 1700
+        "medida": "100x100"
     },
     {
         "codigo": "7",
         "serie": "",
         "nombre": "REJA 120x60",
-        "medida": "120x60",
-        "precio": 1722
+        "medida": "120x60"
     },
     {
         "codigo": "5",
         "serie": "",
         "nombre": "REJA 120x100",
-        "medida": "120x100",
-        "precio": 1941
+        "medida": "120x100"
     },
     {
         "codigo": "12",
         "serie": "",
         "nombre": "REJA 150x60",
-        "medida": "150x60",
-        "precio": 1774
+        "medida": "150x60"
     },
     {
         "codigo": "6",
         "serie": "",
         "nombre": "REJA 150x120",
-        "medida": "150x120",
-        "precio": 3442
+        "medida": "150x120"
     },
     {
         "codigo": " ",
         "serie": "",
         "nombre": "CORTINA RUSTICA 100x160 BLANCA",
-        "medida": "100x160",
-        "precio": 1023
+        "medida": "100x160"
     },
     {
         "codigo": " ",
         "serie": "",
         "nombre": "CORTINA RUSTICA 100x200 BEIGE",
-        "medida": "100x200",
-        "precio": 1023
+        "medida": "100x200"
     },
     {
         "codigo": "200",
         "serie": "",
         "nombre": "FLETE",
-        "medida": " ",
-        "precio": 180
+        "medida": " "
     },
     {
         "codigo": "7160",
         "serie": "",
-        "nombre": "LAMA PARA MONOBLOCK C/U $53",
-        "medida": "Por metro",
-        "precio": ""
+        "nombre": "LAMA PARA MONOBLOCK",
+        "medida": "Por metro"
     },
     {
         "codigo": "7161",
         "serie": "",
-        "nombre": "LAMA PARA CORTINA TRADICIONAL C/U $67",
-        "medida": "Por metro",
-        "precio": ""
+        "nombre": "LAMA PARA CORTINA TRADICIONAL",
+        "medida": "Por metro"
     },
     {
         "codigo": "7162",
         "serie": "",
         "nombre": "BARRA NATURAL ENTERA X 6.80MTS x 80cm TUBO 75x50 ",
-        "medida": "6.80MTS",
-        "precio": 3950
+        "medida": "6.80MTS"
     },
     {
         "codigo": "7163",
         "serie": "",
         "nombre": "BARRA NATURAL 3.40MTS x 40cm TUBO 75x50",
-        "medida": "3.40MTS",
-        "precio": 1975
+        "medida": "3.40MTS"
     },
     {
         "codigo": "7164",
         "serie": "",
         "nombre": "BARRA NATURAL  1.70MTS x 75x50",
-        "medida": "1.70MTS",
-        "precio": 987
+        "medida": "1.70MTS"
     },
     {
         "codigo": "7180",
         "serie": "",
         "nombre": "BARRA NATURAL ALUMINIO TUBO 75x25x680CM",
-        "medida": "75x25x6.80",
-        "precio": 2576
+        "medida": "75x25x6.80"
     },
     {
         "codigo": "7182",
         "serie": "",
         "nombre": "BARRA NATURAL 3.40MTS TUBO 75x25",
-        "medida": "75x25x3.40",
-        "precio": 1339
+        "medida": "75x25x3.40"
     },
     {
         "codigo": "7153",
         "serie": "",
         "nombre": "BARRA NATURAL 1.70MTS TUBO 75x25",
-        "medida": "75x25x1.70",
-        "precio": 670
+        "medida": "75x25x1.70"
     },
     {
         "codigo": "7184",
         "serie": "",
         "nombre": "ESPUMA DE POLIURETANO 750ML",
-        "medida": "750ML",
-        "precio": 272
+        "medida": "750ML"
     },
     {
         "codigo": "7183",
         "serie": "",
         "nombre": "ESPUMA DE POLIURETANO 500ML",
-        "medida": "500ML",
-        "precio": 259
+        "medida": "500ML"
     },
     {
         "codigo": " ",
         "serie": "",
         "nombre": "MAMPARA CRISTAL V/8 TEMPLADO 140x180",
-        "medida": "140x180",
-        "precio": 15695
+        "medida": "140x180"
     },
     {
         "codigo": "9106 NAT",
         "serie": "",
-        "nombre": "CIELO RASO PERFIL L (MEDIA CAÑA) NAT C/U $273",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P PERFIL L (MEDIA CAÑA) NATURAL",
+        "medida": ""
     },
     {
         "codigo": "9107 CEREJE",
         "serie": "",
-        "nombre": "CIELO RASO PERFIL L (MEDIA CAÑA) CEREJEIRA LIV C/U $273",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P PERFIL L (MEDIA CAÑA) CEREJEIRA LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "9108",
         "serie": "",
-        "nombre": "CIELO RASO PERFIL H (UNION) BLANCA 6MTS LIV C/U $335",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P PERFIL H (UNION) BLANCA 6MTS LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "9109 NAT",
         "serie": "",
-        "nombre": "CIELO RASO ESQUI INT NATURAL LIV C/U $48",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P ESQUINERO INTERNO NATURAL LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "9110 CEREJE",
         "serie": "",
-        "nombre": "CIELO RASO ESQUI INT CEREJEIRA LIV C/U $48",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P ESQUINERO INTERNO CEREJEIRA LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "9111 NAT",
         "serie": "",
-        "nombre": "CIELO RASO ESQUI EXT NAT LIV C/U $48",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P ESQUINERO EXTERNO NATURAL LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "9112 CEREJE",
         "serie": "",
-        "nombre": "CIELO RASO ESQUI EXT CEREJEIRA LIV C/U $48",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P ESQUINERO EXTERNO CEREJEIRA LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "9113 B",
         "serie": "",
-        "nombre": "CIELO RASO ESQUI INT BLANCO LIV C/U $33",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P ESQUINERO INTERNO BLANCO LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "9114 B",
         "serie": "",
-        "nombre": "CIELO RASO ESQUI EXT BLANCO LIV C/U $60",
-        "medida": "",
-        "precio": ""
+        "nombre": "CIELO RASO P ESQUINERO EXTERNO BLANCO LIVIANO",
+        "medida": ""
     },
     {
         "codigo": "5662",
         "serie": "",
-        "nombre": "SOLERA DE 35x3000x41 C/U $119",
-        "medida": "35x3000x41",
-        "precio": ""
+        "nombre": "SOLERA DE 35x3000x41",
+        "medida": "35x3000x41"
     },
     {
         "codigo": "5606",
         "serie": "",
-        "nombre": "MONTANTE DE 35x3000x41 C/U $138",
-        "medida": "35x3000x41",
-        "precio": ""
+        "nombre": "MONTANTE DE 35x3000x41",
+        "medida": "35x3000x41"
     },
     {
         "codigo": "1239",
         "serie": "",
         "nombre": "TACO FISCHER N 8 (200 UNIDADES)",
-        "medida": "200 UNIDADES",
-        "precio": 101
+        "medida": "200 UNIDADES"
     },
     {
         "codigo": "1240",
         "serie": "",
         "nombre": "TACO FISCHER N 10 (100 UNIDADES)",
-        "medida": "100 UNIDADES",
-        "precio": 92
+        "medida": "100 UNIDADES"
     },
     {
         "codigo": "1306",
         "serie": "",
         "nombre": "TORNILLO  P/MAD 22x45 (100 UNIDADES)",
-        "medida": "100 UNIDADES",
-        "precio": 129
+        "medida": "100 UNIDADES"
     },
     {
         "codigo": "1655",
         "serie": "",
         "nombre": "TORNILLO P/MAD 22x55 (100 UNIDADES)",
-        "medida": "100 UNIDADES",
-        "precio": 173
+        "medida": "100 UNIDADES"
     },
     {
         "codigo": "1356",
         "serie": "",
         "nombre": "TORNILLO YESO C/FLA. PUNTA AGUJA 4.2x13 T1 (250 UNID)",
-        "medida": "250 UNIDADES",
-        "precio": 106
+        "medida": "250 UNIDADES"
     },
     {
         "codigo": "1358",
         "serie": "",
         "nombre": "TORNILLO YESO C/FLA. PUNTA MECHA 4.2x13 T1 (250 UNID)",
-        "medida": "250 UNIDADES",
-        "precio": 134
+        "medida": "250 UNIDADES"
     },
     {
         "codigo": "1386",
         "serie": "",
-        "nombre": "TACO FISCHER N8 POR UNIDAD C/U $0.75",
-        "medida": "POR UNIDAD",
-        "precio": ""
+        "nombre": "TACO FISCHER N8 POR UNIDAD",
+        "medida": "POR UNIDAD"
     },
     {
         "codigo": "1387",
         "serie": "",
-        "nombre": "TACO FISCHER N10 POR UNIDAD C/U $1.15",
-        "medida": "POR UNIDAD",
-        "precio": ""
+        "nombre": "TACO FISCHER N10 POR UNIDAD",
+        "medida": "POR UNIDAD"
     },
     {
         "codigo": "1374",
         "serie": "",
-        "nombre": "TORNILLO P/MAD. 22x45 POR UNIDAD C/U $1.90",
-        "medida": "POR UNIDAD",
-        "precio": ""
+        "nombre": "TORNILLO P/MAD. 22x45 POR UNIDAD",
+        "medida": "POR UNIDAD"
     },
     {
         "codigo": "1375",
         "serie": "",
-        "nombre": "TORNILLO P/MAD. 22x55 POR UNIDAD C/U $2.50",
-        "medida": "POR UNIDAD",
-        "precio": ""
+        "nombre": "TORNILLO P/MAD. 22x55 POR UNIDAD",
+        "medida": "POR UNIDAD"
     },
     {
         "codigo": "9115",
         "serie": "",
         "nombre": "REVESTIMIENTO PARED P 25CM x 2.70MTS x 10MM",
-        "medida": "25CM x 2.70MTS x 10MM",
-        "precio": "572"
+        "medida": "25CM x 2.70MTS x 10MM"
     },
     {
         "codigo": "9116",
         "serie": "",
         "nombre": "REVESTIMIENTO PARED P 20CM x 6MTS x 7MM MARRON",
-        "medida": "20CM x 6MTS x 7MM",
-        "precio": 824
+        "medida": "20CM x 6MTS x 7MM"
     },
     {
         "codigo": "7240",
         "serie": "",
-        "nombre": "PUERTA VELKA CUADROS GRIS GRAFITO 84x200CM",
-        "medida": "84x200",
-        "precio": 4784
+        "nombre": "PUERTA VELKA CUADROS GRIS GRAFITO 84x200CM IZQUIERDA",
+        "medida": "84x200"
     },
     {
         "codigo": "7241",
         "serie": "",
-        "nombre": "PUERTA VELKA CUADROS BLANCO 84x200CM",
-        "medida": "84x200",
-        "precio": 4784
+        "nombre": "PUERTA VELKA CUADROS BLANCO 84x200CM IZQUIERDA",
+        "medida": "84x200"
     },
     {
         "codigo": "7165",
         "serie": "",
         "nombre": "CERRADURAS PADO",
-        "medida": "",
-        "precio": 860
+        "medida": ""
     },
     {
         "codigo": "7185",
         "serie": "",
         "nombre": "BARRA NATURAL ALUMINIO ENTERA TUBO 50x25x6.80MTS",
-        "medida": "",
-        "precio": 2039
+        "medida": ""
     },
     {
         "codigo": "7186",
         "serie": "",
         "nombre": "BARRA NATURAL 3MTS. 40CM TUBO 50x25",
-        "medida": "",
-        "precio": 1060
+        "medida": ""
     },
     {
         "codigo": "7187",
         "serie": "",
         "nombre": "BARRA NATURAL 1MT.7OCM TUBO 50x25",
-        "medida": "",
-        "precio": 530
+        "medida": ""
     },
     {
         "codigo": "OT38",
         "serie": "",
         "nombre": "PURETA BLINDADA NEGRA DE COCINA DOS VIDRIOS",
-        "medida": "86x205",
-        "precio": 10237
+        "medida": "86x205"
     },
     {
         "codigo": "7190",
         "serie": "",
         "nombre": "CORREDIZA ALUM NATURAL",
-        "medida": "120x200",
-        "precio": 7364
+        "medida": "120x200"
     }
 ]
