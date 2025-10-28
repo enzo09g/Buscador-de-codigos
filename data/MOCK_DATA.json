@@ -1433,5 +1433,68 @@
         "nombre": "CORREDIZA ALUM NATURAL",
         "medida": "120x200",
         "precio": 7364
+    },
+    {
+        "codigo": "AA 915/1/20",
+        "serie": "",
+        "nombre": "AMOLADORA NEO 1050W 115MM CARG. Y BAT.",
+        "medida": "115MM 1050W",
+        "precio": 3325
+    },
+    {
+        "codigo": "AA 1115/1/220",
+        "serie": "",
+        "nombre": "AMOLADORA NEO 1200W 115MM VELOC. VARIABLE",
+        "medida": "1200W 115MM",
+        "precio": 2321
+    },
+    {
+        "codigo": "AA B23/2/220",
+        "serie": "",
+        "nombre": "AMOLADORA ANGULAR 2000W 230MM",
+        "medida": "2000W 230MM",
+        "precio": 3329
+    },
+    {
+        "codigo": "TG 410/12 K1",
+        "serie": "",
+        "nombre": "TALADRO ATORNILLADOR 12V RECARG. 2EN1",
+        "medida": "",
+        "precio": 1311
+    },
+    {
+        "codigo": "AA 715/220",
+        "serie": "",
+        "nombre": "AMOLADORA ANGULAR 800W 115MM",
+        "medida": "800W 115MM",
+        "precio": 1311
+    },
+    {
+        "codigo": "AA/815/1/220",
+        "serie": "",
+        "nombre": "AMOLADORA ANGULAR 950W 115MM",
+        "medida": "950W 115MM",
+        "precio": 1514
+    },
+    {
+        "codigo": "AA/815/20",
+        "serie": "",
+        "nombre": "AMOLADORA ANGULAR RECARG BAT 1650W 115M",
+        "medida": "1650W 115M",
+        "precio": 2321
+    },
+    {
+        "codigo": "TP1013/1/20C1",
+        "serie": "",
+        "nombre": "TALADRO PERCUTOR RECARG. NEO 20V 13MM",
+        "medida": "20V 13MM",
+        "precio": 2658
+    },
+    {
+        "codigo": "TPG 813/20 K2",
+        "serie": "",
+        "nombre": "TALADRO ATORNILLAR PERCUTOR 3EN1 13MM",
+        "medida": "13MM",
+        "precio": 3329
     }
 ]
