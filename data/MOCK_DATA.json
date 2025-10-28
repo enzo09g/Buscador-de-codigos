@@ -595,13 +595,6 @@
         "precio": 8047
     },
     {
-        "codigo": 3912,
-        "serie": " ",
-        "nombre": "PUERTA PVC INTERIOR CAOBA DERECHA",
-        "medida": "75.5x205",
-        "precio": 5488
-    },
-    {
         "codigo": 3670,
         "serie": "20",
         "nombre": "MOSQUITERO",
@@ -922,34 +915,6 @@
         "medida": "86x2,05",
         "nombre": "PUERTA BLINDADA CON BARRAL DE ACERO NEGRA LISA Derecha",
         "precio": 10946
-    },
-    {
-        "codigo": "MDFB",
-        "serie": "",
-        "medida": "75x205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC BLANCA Izquierda",
-        "precio": 6665
-    },
-    {
-        "codigo": "MDFB",
-        "serie": "",
-        "medida": "75205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC BLANCA Derecha",
-        "precio": 6665
-    },
-    {
-        "codigo": "MDFM",
-        "serie": "",
-        "medida": "75x205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC MARRON Izquierda",
-        "precio": 6665
-    },
-    {
-        "codigo": "MDFM",
-        "serie": "",
-        "medida": "75x205",
-        "nombre": "PUERTA INTERIOR MDF LAMINADA EN PVC MARRON Derecha",
-        "precio": 6665
     },
     {
         "codigo": "9100 B",
@@ -1496,5 +1461,75 @@
         "nombre": "TALADRO ATORNILLAR PERCUTOR 3EN1 13MM",
         "medida": "13MM",
         "precio": 3329
+    },
+    {
+        "codigo": "OT 24 M",
+        "serie": "",
+        "nombre": "PUERTA BLINDADA RAYITO DE SOL DERECHA MARRON",
+        "medida": "86x205",
+        "precio": 10950
+    },
+    {
+        "codigo": "OT 24 M",
+        "serie": "",
+        "nombre": "PUERTA BLINDADA RAYITO DE SOL IZQUIERDA MARRON",
+        "medida": "86x205",
+        "precio": 10950
+    },
+    {
+        "codigo": "OT 24 N",
+        "serie": "",
+        "nombre": "PUERTA BLINDADA RAYITO DE SOL IZQUIERDA NEGRA",
+        "medida": "86x205",
+        "precio": 10950
+    },
+    {
+        "codigo": "OT 24 N",
+        "serie": "",
+        "nombre": "PUERTA BLINDADA RAYITO DE SOL DERECHA NEGRA",
+        "medida": "86x205",
+        "precio": 10950
+    },
+    {
+        "codigo": "OT 24 B",
+        "serie": "",
+        "nombre": "PUERTA BLINDADA RAYITO DE SOL IZQUIERDA BLANCA",
+        "medida": "86x205",
+        "precio": 10950
+    },
+    {
+        "codigo": "OT 24 B",
+        "serie": "",
+        "nombre": "PUERTA BLINDADA RAYITO DE SOL DERECHA BLANCA",
+        "medida": "86x205",
+        "precio": 10950
+    },
+    {
+        "codigo": "MDF B",
+        "serie": "",
+        "nombre": "PURETA INTERIOR MDF BLANCA DERECHA",
+        "medida": "75x205",
+        "precio": 5756
+    },
+    {
+        "codigo": "MDF B",
+        "serie": "",
+        "nombre": "PURETA INTERIOR MDF BLANCA IZQUIERDA",
+        "medida": "75x205",
+        "precio": 5756
+    },
+    {
+        "codigo": "MDF M",
+        "serie": "",
+        "nombre": "PURETA INTERIOR MDF MARRON IZQUIERDA",
+        "medida": "75x205",
+        "precio": 5756
+    },
+    {
+        "codigo": "MDF M",
+        "serie": "",
+        "nombre": "PURETA INTERIOR MDF MARRON DERECHA",
+        "medida": "75x205",
+        "precio": 5756
     }
 ]
