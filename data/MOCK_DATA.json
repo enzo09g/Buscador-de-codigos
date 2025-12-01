@@ -193,7 +193,7 @@
         "serie": "20",
         "nombre": "CORREDIZA ALUM NATURAL",
         "medida": "120x180",
-        "precio": 6940
+        "precio": 7041
     },
     {
         "codigo": 114,
@@ -1166,14 +1166,14 @@
         "serie": "",
         "nombre": "ESPUMA DE POLIURETANO 750ML",
         "medida": "750ML",
-        "precio": 272
+        "precio": 253
     },
     {
         "codigo": "7183",
         "serie": "",
         "nombre": "ESPUMA DE POLIURETANO 500ML",
         "medida": "500ML",
-        "precio": 259
+        "precio": 184
     },
     {
         "codigo": " ",
@@ -1531,5 +1531,12 @@
         "nombre": "PURETA INTERIOR MDF MARRON DERECHA",
         "medida": "75x205",
         "precio": 5756
+    },
+    {
+        "codigo": "7191",
+        "serie": "",
+        "nombre": "BROEN",
+        "medida": "1LT",
+        "precio": 300
     }
 ]
